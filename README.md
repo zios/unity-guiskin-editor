@@ -32,15 +32,12 @@ If you'd like to make a direct inquiry regarding my work or if you just want a f
 
 <h2>Preview <sup><em>(What does it look like?)</em></sup></h2>
 Performance Comparison
-[![Performance]
-(http://bradsmithee.com/shared/[2909][2017-02-22][0623].png)]
+[<img src="http://bradsmithee.com/shared/[2909][2017-02-22][0623].png">]
 (https://bradsmithee.com/shared/[2897][2017-02-22][0505].mp4)
 
 Searching
-[![Searching]
-(http://bradsmithee.com/shared/[2910][2017-02-22][0624].png)]
+[<img src="http://bradsmithee.com/shared/[2910][2017-02-22][0624].png">]
 (http://bradsmithee.com/shared/[2901][2017-02-22][0511].mp4)
 
 Compact Mode
-![Compact Mode]
-(http://bradsmithee.com/shared/[2899][2017-02-22][0508].png)
+<img src="http://bradsmithee.com/shared/[2899][2017-02-22][0508].png">
