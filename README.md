@@ -5,15 +5,17 @@ This addon provides the Unity Editor with an alternative inspector/editor for .g
 The editor was created to provide an alternative to the default guiskin editor that focused on performance when editing large numbers of guistyles and allowed other extended features for easier/faster maintenence.
 
 <h2>Features <sup><em>(What can it do?)</em></sup></h2>
-* Supports 3 display modes (Default, Replica, and Compact).
-* Supports searching of styles by name or attributes. Searches can be explicit or use wildcards.
-* Supports visual forms for constructing advanced search queries.
-* Supports copy/paste of GUIStyles.
-* Supports searching/grouping separated fragment guiskin files from parent (i.e : MySkin#Buttons.guiskin belongs to MySkin.guiskin set)
-* Supports off-screen padding/clipping of non-visible elements for smooth framerate even when hundreds of styles present.
-* Default mode uses Unity's built-in editor.
-* Replica mode visually mimic's Unity's built-in editor with extra performance/features.
-* Compact mode focuses on more direct access to style options.
+<ul>
+<li>Supports 3 display modes (Default, Replica, and Compact).</li>
+<li>Supports searching of styles by name or attributes. Searches can be explicit or use wildcards.</li>
+<li>Supports visual forms for constructing advanced search queries.</li>
+<li>Supports copy/paste of GUIStyles.</li>
+<li>Supports searching/grouping separated fragment guiskin files from parent (i.e : MySkin#Buttons.guiskin belongs to MySkin.guiskin set)</li>
+<li>Supports off-screen padding/clipping of non-visible elements for smooth framerate even when hundreds of styles present.</li>
+<li>Default mode uses Unity's built-in editor.</li>
+<li>Replica mode visually mimic's Unity's built-in editor with extra performance/features.</li>
+<li>Compact mode focuses on more direct access to style options.</li>
+</ul>
 
 <h2>Compatibility <sup><em>(What environments will it function with?)</em></sup></h2>
 Currently, the system has been built and tested on Unity 5.0 through 5.6.0b9 on Windows/Mac/Linux.
@@ -22,7 +24,7 @@ Currently, the system has been built and tested on Unity 5.0 through 5.6.0b9 on 
 Bugs should be discussed/reported <a href="https://github.com/zios/unity-guiskin-editor/issues">here</a>.
 
 <h2>Contact <sup><em>(How can I reach you?)</em></sup></h2>
-If you'd like to make a direct inquiry regarding my work or if you just want a friendly conversation, you can find me idling in the [Game Dev League](https://discordapp.com/invite/0TYNJfCU4De7YIk8) Discord server under the alias Bradical. Failing that, I'm also reachable via email at bradsmithee@gmail.com
+If you'd like to make a direct inquiry regarding my work or if you just want a friendly conversation, you can find me idling in the <a href="https://discordapp.com/invite/0TYNJfCU4De7YIk8">Game Dev League</a> Discord server under the alias Bradical. Failing that, I'm also reachable via email at bradsmithee@gmail.com
 
 <h2>Preview <sup><em>(What does it look like?)</em></sup></h2>
 Performance Comparison
