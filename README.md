@@ -19,13 +19,7 @@ The editor was created to provide an alternative to the default guiskin editor t
 Currently, the system has been built and tested on Unity 5.0 through 5.6.0b9 on Windows/Mac/Linux.
 
 <h2>Issues <sup><em>(What problems are known?)</em></sup></h2>
-Bugs should be discussed/reported [here](https://github.com/zios/unity-guiskin-editor/issues).
-
-<h2>Download <sup><em>(Where can I obtain it?)</em></sup></h2>
-You can obtain the latest release from [here](https://github.com/zios/unity-guiskin-editor/releases). It includes a pre-built x64 dlls for Unity 5.* releases.  The source code is also available for usage/extension/contribution under an MIT license.
-
-<h2>Usage <sup><em>(How do you use it?)</em></sup></h2>
-Extract the zip file to your project's Assets folder. Select any guiskin file from your project panel.
+Bugs should be discussed/reported <a href="https://github.com/zios/unity-guiskin-editor/issues">here</a>.
 
 <h2>Contact <sup><em>(How can I reach you?)</em></sup></h2>
 If you'd like to make a direct inquiry regarding my work or if you just want a friendly conversation, you can find me idling in the [Game Dev League](https://discordapp.com/invite/0TYNJfCU4De7YIk8) Discord server under the alias Bradical. Failing that, I'm also reachable via email at bradsmithee@gmail.com
@@ -33,13 +27,11 @@ If you'd like to make a direct inquiry regarding my work or if you just want a f
 <h2>Preview <sup><em>(What does it look like?)</em></sup></h2>
 Performance Comparison
 
-[<img src="http://bradsmithee.com/shared/[2909][2017-02-22][0623].png">]
-(https://bradsmithee.com/shared/[2897][2017-02-22][0505].mp4)
+<a href="https://bradsmithee.com/shared/[2897][2017-02-22][0505].mp4"><img src="http://bradsmithee.com/shared/[2909][2017-02-22][0623].png"></a>
 
 Searching
 
-[<img src="http://bradsmithee.com/shared/[2910][2017-02-22][0624].png">]
-(http://bradsmithee.com/shared/[2901][2017-02-22][0511].mp4)
+<a href="http://bradsmithee.com/shared/[2901][2017-02-22][0511].mp4"><img src="http://bradsmithee.com/shared/[2910][2017-02-22][0624].png"></a>
 
 Compact Mode
 
